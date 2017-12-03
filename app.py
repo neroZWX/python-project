@@ -1,3 +1,4 @@
+#adapted from https://github.com/moinudeen/digit-recognizer-flask-cnn
 from flask import Flask, render_template, request
 from scipy.misc import imsave, imread, imresize
 import numpy as np
