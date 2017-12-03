@@ -1,5 +1,5 @@
 # python-project
-#Using tenserflow keras library
+## Using tenserflow keras library
 #Flask as framwork
 #its simply webpage that can predict  handwritten digits
 #can save a last operation as 'output.png' in root direction
@@ -12,12 +12,12 @@ Click [here](https://www.tensorflow.org/install/)to install
 # flask 
 [flask install](http://flask.pocoo.org/docs/0.12/installation/)
 # how to run this file
-'''git clone https://github.com/neroZWX/python-project'''
+```git clone https://github.com/neroZWX/python-project```
  then go to the directory
-''' cd python-project'''
+``` cd python-project```
 set flask-server
-''' set FLASK_APP=app.py'''
+``` set FLASK_APP=app.py```
 run flask-server
-'''flask run'''
-open your browser then type http://localhost:5000/
+```flask run```
+open your browser then type "localhost:5000/"
 
